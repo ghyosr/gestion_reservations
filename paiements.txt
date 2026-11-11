@@ -1,0 +1,4 @@
+P001;R001;02/11/2026;840;Carte bancaire;Paiement complet
+P002;R002;03/11/2026;900;Virement;
+P003;R003;04/11/2026;400;Espèces;Acompte
+P004;R004;05/11/2026;1500;Carte bancaire;Paiement complet

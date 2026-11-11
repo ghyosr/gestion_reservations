@@ -1,0 +1,5 @@
+R001;Trabelsi Sami;09123456;CA101;02/11/2026;Économique;2;420;Confirmée
+R002;Gharbi Leila;08234567;CA101;03/11/2026;Affaires;1;900;Confirmée
+R003;Dupont Marc;12345678;CA102;04/11/2026;Économique;3;410;En attente
+R004;Haddad Nour;07456789;CA215;05/11/2026;Première;1;1500;Confirmée
+R005;Rossi Luca;11567890;CA330;06/11/2026;Économique;2;540;Annulée

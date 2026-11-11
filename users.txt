@@ -1,0 +1,4 @@
+admin;admin123;admin;
+client1;client123;utilisateur;09123456
+client2;client456;utilisateur;08234567
+client3;client789;utilisateur;12345678
